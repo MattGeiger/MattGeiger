@@ -22,7 +22,7 @@ I’m a Navy veteran with expertise in electronics technology, RADAR, and commun
 
 ## ✨ My Background:
 - 🎓 BA in **Art Practices**, Portland State University
-- 🎓 MA in **Design**, MPS in **Design for Interactions**, Carnegie Mellon University
+- 🎓 MA in **Design** and MPS in **Design for Interactions**, Carnegie Mellon University
 - 🤝 Passionate about **community service**, currently working in **social work** at a local non-profit
 
 ## 📫 How to Reach Me:
