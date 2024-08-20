@@ -21,8 +21,8 @@ I’m a Navy veteran with expertise in electronics technology, RADAR, and commun
 - **Deepening my expertise in Blender’s rigging and animation systems**
 
 ## ✨ My Background:
-- 🎓 BA in Art Practices, Portland State University
-- 🎓 Double Master's in Design, Carnegie Mellon University
+- 🎓 BA in **Art Practices**, Portland State University
+- 🎓 MA in **Design**, MPS in **Design for Interactions**, Carnegie Mellon University
 - 🤝 Passionate about **community service**, currently working in **social work** at a local non-profit
 
 ## 📫 How to Reach Me:
