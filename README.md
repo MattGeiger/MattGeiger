@@ -1,6 +1,6 @@
 # Matt Geiger
  
-**Design researcher and full-stack developer building production tools for community services.** Portland, OR.
+**Design researcher and full-stack developer building production tools for social services and community-based organizations.** Portland, OR.
  
 I build open-source software for food pantries and community organizations through [Temple Consulting](https://templepdx.com), and I'm the Technology Coordinator at William Temple House, a Portland nonprofit whose pantry serves 1,400+ families a month.
  
