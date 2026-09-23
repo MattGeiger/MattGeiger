@@ -1,42 +1,48 @@
-# Hi there, I'm Matt Geiger 👋
-
-🎨 **Designer** | 💻 **Researcher** | ⚡ **Innovator**
-
-I’m a versatile creative professional with a deep background in art, design, and technology. I’ve spent years in the trenches of the tech world, from semiconductor manufacturing to the automotive industry, honing my skills in **electronics**, **nanotechnology**, **3D modeling**, **UX research**, **electric vehicles**, and **augmented reality**—all while fostering a passion for **human-centered design**.
-
-I’m a Navy veteran with expertise in electronics technology, RADAR, and communication systems, and I hold multiple advanced degrees from Carnegie Mellon University's School of Design. Recently, I worked at General Motors defining CX Strategy, quality assurance practices, and usability research for EV launches. Now, I’m applying my passion for service in the field of **social work** at a local non-profit, helping to improve lives and fight hunger in my community.
-
-## 🚀 What I’m Working On:
-- 🔄 **[Adobe Automation Scripts](https://github.com/MattGeiger/Adobe-Scripts/)**: Automating workflows across Adobe tools to enhance efficiency for editors and designers.
-- 💡 **AI Prompt Engineering**: Continuously exploring human-computer interactions, AI-based workflows.
-
-## 💻 My Tech Stack:
-- **Visual Design**: Adobe Creative Suite
-- **3D Modeling/AR/VR**: Fusion 360, Blender, Apple Reality Composer, Unreal Engine, Unity
-- **Code**: C, Python, JavaScript
-- **Hardware**: Mac, PC, Arduino, Raspberry Pi, Bolt cutters
-
-## 🌱 I’m Learning:
-- Advanced **Generative AI** tools for design and prototyping
-- **Deepening my expertise in Blender’s rigging and animation systems**
-
-## ✨ My Background:
-- 🎓 BA in **Art Practices**, Portland State University
-- 🎓 MA in **Design** and MPS in **Design for Interactions**, Carnegie Mellon University
-- 🤝 Passionate about **community service**, currently working in **social work** at a local non-profit
-
-## 📫 How to Reach Me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/matt-geiger-ma-mps-01777015)
-- 🌍 [Portfolio](https://geigertron.com)
-
-## ⚡ Fun Facts:
-- I’m a laserdisc collector 📀 and love exploring **dead media formats**.
-- I mentor students from middle school to graduate programs, guiding them through lessons in **ethics**, **design**, **UX research**, and **generative AI** projects.
-- I’m a huge space exploration enthusiast 🚀 and love discussing NASA’s missions, both past and present.
-
+# Matt Geiger
+ 
+**Design researcher and full-stack developer building production tools for community services.** Portland, OR.
+ 
+I build open-source software for food pantries and community organizations through [Temple Consulting](https://templepdx.com), and I'm the Technology Coordinator at William Temple House, a Portland nonprofit whose pantry serves 1,400+ families a month.
+ 
+Before this: CX research for General Motors' EV launches, a Master of Arts and a Master of Professional Studies in Design from Carnegie Mellon, five years deploying Nikon lithography scanners in Intel fabs, and six years as a U.S. Navy electronics technician maintaining carrier landing systems and tactical data links.
+ 
+## Current work
+ 
+**[LOTTO](https://github.com/MattGeiger/LOTTO)** — Line Order Transparency & Ticketing Organizer
+The queue and ticketing system of record at William Temple House: a live lobby display plus a personal status view that runs on clients' own phones, including older devices. Supports 59 languages, including right-to-left scripts.
+`Next.js` `TypeScript` `Postgres` `Vercel` · AGPL-3.0
+ 
+**[FEED](https://github.com/MattGeiger/williamtemple-feed)** — Food Equity & Efficient Delivery
+Pantry management with inventory, multilingual PDF shopping lists, and funder-ready analytics. It stores no client names, addresses, or contact details, and runs in production on a Raspberry Pi 5.
+`React` `TypeScript` `Express` `Prisma` `Docker` · AGPL-3.0
+ 
+**[ofb-order-csv-exporter](https://github.com/MattGeiger/ofb-order-csv-exporter)**
+A Chrome extension that exports Oregon Food Bank Primarius order details as clean CSV files.
+ 
+**[Adobe-Scripts](https://github.com/MattGeiger/Adobe-Scripts)**
+Automation scripts for common Creative Cloud tasks in Premiere Pro, Photoshop, and Illustrator.
+ 
+## How I build
+ 
+- **Privacy by design.** FEED stores no client-identifying details, and a 70,000-record client migration ran on a locally hosted LLM so the data never went to a third-party AI service.
+- **Multilingual by default.** Configurable AI translation across 59 languages, with multi-provider routing and cost controls.
+- **Open source.** AGPL licensing so other pantries can run and adapt the same tools.
+## Stack
+ 
+- **Research & design:** mixed-methods research, usability testing, survey design, service design, Qualtrics, Miro
+- **Development:** TypeScript, React, Next.js, Node.js, Express, Prisma, PostgreSQL, SQLite, Tailwind CSS, Docker, Vercel
+- **AI:** LLM integration (Anthropic, OpenAI, Google), local open-weights models (LM Studio), agentic browser automation, agentic coding (Claude Code, Codex)
+- **3D & hardware:** Blender, Fusion 360, Raspberry Pi, Arduino
+## Elsewhere
+ 
+- [templepdx.com](https://templepdx.com)
+- [LinkedIn](https://www.linkedin.com/in/matt-geiger-ma-mps-01777015)
+## Off the clock
+ 
+- Laserdisc collector with a soft spot for dead media formats
+- Space exploration enthusiast; co-founded Carnegie Mellon's chapter of Students for the Exploration & Development of Space
+- Guest lecturer at Carnegie Mellon and Lincoln High School on 3D design, animation, and AI ethics
 ---
-
-🛠 *"You are responsible for what you put into the world."*  
-—Victor Papanek
-
-This is my guiding philosophy, and I'm always seeking new challenges that allow me to bring this vision to life through thoughtful and ethical design, technology, and innovation.
+ 
+*"You are responsible for what you put into the world."* — Victor Papanek
+ 
